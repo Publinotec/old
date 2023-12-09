@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.658), #cccccc96);
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    color: rgb(20, 22, 22);
+}
+
+
+.row {
+    margin: 0 auto;
+    background-color: rgba(0, 255, 136, 0.486);
+}
+
+.form-group{
+    color: aliceblue;
+    margin-top: 20px;
+    
+}
+.row table-responsive{
+    color: aliceblue;
+}
+.table table-striped{
+    color: aliceblue;
+}
